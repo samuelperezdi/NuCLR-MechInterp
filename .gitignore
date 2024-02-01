@@ -15,3 +15,12 @@ hall_of_fame*
 fits/
 fits_mtl_be/
 features/
+long-runs/
+scripts/
+interp.ipynb
+paper-plots.ipynb
+training.ipynb
+nbs/
+scripts/
+docs/
+setup.py
